@@ -1,0 +1,19 @@
+#easy-modal-container {
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+#easy-modal-shade {
+    background-color: rgba(0, 0, 0, 0.75);
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+#easy-modal-inner {
+    width: 60%;
+    margin: 0 auto;
+}
