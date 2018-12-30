@@ -50,7 +50,7 @@ Add the `.easy-modal-close` class to any element which will close the modal on c
 Include in other [RequireJS](https://requirejs.org/) scripts matching your configuration. See doc block comments in non-minified [easy-modal.js](https://github.com/KainGNX/easy-modal/js/modules/easy-modal.js) and apply as needed for additional custom integration.
 
 ## Live Example
-See [Easy Modal](https://www.greaterdevelopment.com/showcase/easy-modal/) working example.
+See an [Easy Modal](https://www.greaterdevelopment.com/showcase/easy-modal/) working example of this source.
 
 ### See also
 - [RequireJS](https://requirejs.org/)
