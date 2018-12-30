@@ -5,8 +5,9 @@
  * leaving the inner portion of the modal open for flexible free-form
  * content determined by the user.
  * 
- * @license GPL v3 Copyright: 2018
  * @author Jason Horvath <jason.horvath@greaterdevelopment.com>
+ * @license GPL v3 Copyright: 2018
+ * @version 1.0.0
  * 
  */
 
