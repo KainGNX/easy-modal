@@ -1,3 +1,7 @@
+/**
+ Easy Modal with RequireJS and jQuery
+ For a functional modal, add this to your existing CSS.
+*/
 #easy-modal-container {
     display: none;
     position: absolute;
@@ -20,10 +24,10 @@
     position: relative;
     background-color: #fff;
     width: 60%;
-    margin: 15% auto 0 auto;
+    margin: 10% auto 0 auto;
     padding: 15px;
     z-index: 1100;
 }
-body.easy-modal-is-open {
+body.easy-modal-opened {
     overflow: hidden;
 }

@@ -1,1 +1,1 @@
-require(['modal']);
+require(['easy-modal']);
