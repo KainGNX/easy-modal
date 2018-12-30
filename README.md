@@ -9,7 +9,7 @@ General use modal module to allow easy implementation of a modal in any page wit
 ## Include Usage
 Prior knowledge of [RequireJS](https://requirejs.org/) is assumed. The included sample code is using CDN libraries.
 
-Where the files are placed depends on how files like [require-config.js](https://github.com/KainGNX/easy-modal/src/js/config/require-config.js) be configured.
+Where the files are placed depends on how files like [require-config.js](https://github.com/KainGNX/easy-modal/src/js/config/require-config.js) will be configured relative to your file placement.
 
 Be sure to include contents from [easy-modal.css](https://github.com/KainGNX/easy-modal/src/css/easy-modal.css) for the modal to work.
 
