@@ -70,7 +70,7 @@ define(['domReady', 'jquery'], function(domReady, $) {
             },
 
             /**
-             * On Load -- finds for related elements and content to poplulate onload
+             * On Load Inner -- finds for related elements and content to poplulate onload
              * 
              * @return void
              */
