@@ -11,8 +11,8 @@
  * 
  */
 
-define(['domReady', 'jquery'], function(domReady, $) {
-    domReady(function() {
+define(['jquery'], function($) {
+    $(function() {
         'use strict';
 
         /**
