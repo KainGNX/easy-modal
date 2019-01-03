@@ -3,7 +3,6 @@ General use modal module to allow easy implementation of a modal in any page wit
 
 ## Dependencies
 - [RequireJS](https://requirejs.org/docs/download.html) download
-- [domReady AMD loader plugin](https://github.com/requirejs/domReady)
 - [jQuery](https://jquery.com/download/) download
 
 ## Include Usage
